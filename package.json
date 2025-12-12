@@ -1,0 +1,15 @@
+{
+  "name": "aplicacion_por_consola",
+  "version": "1.0.0",
+  "description": "Aplicacion por consola en nodejs usando inquirer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^12.11.1"
+  }
+}
