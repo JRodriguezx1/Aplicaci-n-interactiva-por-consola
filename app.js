@@ -1,7 +1,7 @@
 console.log('Aplicacion interactiva por consola');
-const colors = require('colors');
-const { menuOpciones } = require('./helper/inquirer');
-
+//const colors = require('colors');
+//const { menuOpciones } = require('./helper/inquirer');
+import { menuOpciones } from './helper/inquirer.js';
 
 const menu = async()=>{
     let opt = '';
